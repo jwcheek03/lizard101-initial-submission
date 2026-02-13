@@ -18,8 +18,8 @@ Gloria Chien
 
 Instructions to run:
 
-* Open the build/ folder
-* Run Lizard101.exe
+* Navigate to the lizard101/build folder using a command-line interface
+* Execute './main'
 
 -----------------------------------------------------------
 
