@@ -1,0 +1,21 @@
+# Ignore build outputs
+/build/
+out/
+*.exe
+*.pdb
+*.obj
+*.ilk
+
+# IDE/Editor files
+*.user
+*.suo
+*.vcxproj*
+*.cache
+*.log
+.vs/
+
+# CMake-generated
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
